@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>nivel</key>
+		<string>Nivel Uno</string>
+		<key>pregunta</key>
+		<string>Identificar cual es el compuesto aditivo en los siguientes compuestos. </string>
+		<key>respuesta</key>
+		<string>C22 H20 O13 (Ácido Carmínico)</string>
+		<key>posibleUno</key>
+		<string>NaCl (Cloruro de Sodio)</string>
+		<key>posibleDos</key>
+		<string>HCl (Ácido clorhídrico)</string>
+		<key>posibleTres</key>
+		<string>KI (Yoduro de Potasio)  </string>
+	</dict>
+	<dict>
+		<key>nivel</key>
+		<string>Nivel Dos</string>
+		<key>pregunta</key>
+		<string>Identificar cuál de los siguientes compuestos es un colorante (curcumina).</string>
+		<key>respuesta</key>
+		<string>C21 H20 O6 (Curcumina)</string>
+		<key>posibleUno</key>
+		<string>NaCl (Cloruro de Sodio)</string>
+		<key>posibleDos</key>
+		<string>HCl (Ácido clorhídrico)</string>
+		<key>posibleTres</key>
+		<string>KI (Yoduro de Potasio)  </string>
+	</dict>
+</array>
+</plist>
